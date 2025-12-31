@@ -4,3 +4,5 @@ main:
     url: /about/
   - title: "Writing"
     url: /year-archive/
+  - title: "相簿"
+    url: /albums/shuishui/
